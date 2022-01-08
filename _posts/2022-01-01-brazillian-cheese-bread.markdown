@@ -2,7 +2,7 @@
 layout: post
 title:  "pao de quejio (brazillian cheese bread)"
 date:   2022-01-01 16:27:26 -0800
-categories: jekyll update
+categories: recipes
 ---
 <table>
   <tr>
@@ -29,7 +29,7 @@ categories: jekyll update
   </tr>
   <tr>
     <td>
-     1/2 cup vegetable oil
+     ½ cup vegetable oil
     </td>
   </tr>
   <tr>
