@@ -3,6 +3,7 @@ layout: post
 title:  "pao de quejio (brazillian cheese bread)"
 date:   2022-01-01 16:27:26 -0800
 categories: recipes
+tags: recipe
 ---
 <table>
   <tr>
@@ -66,3 +67,6 @@ categories: recipes
 ## notes
 - use ice cream scooper or two spoons to form cheese balls
 - check salt
+
+## photos
+![pao de quejio](/assets/2022-01-01-brazillian-cheese-bread-01.jpg)
