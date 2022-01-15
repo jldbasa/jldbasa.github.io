@@ -121,5 +121,8 @@ categories: recipes
   </tr>
 </table>
 
+## notes
+- this recipe uses a lot of tomatoes
+
 ## photos
 ![menudo](/assets/2022-01-15-menudo.jpg)
