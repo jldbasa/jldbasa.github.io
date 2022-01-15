@@ -1,0 +1,125 @@
+---
+layout: post
+title:  "menudo"
+date:   2022-01-15 06:00:00 -0800
+categories: recipes
+---
+<table>
+  <tr>
+    <td colspan="6">
+      cut pork and pork liver into bite size and sear
+    </td>
+  </tr>
+  <tr>
+    <td colspan="6">
+      cut carrots, potatoes and bell pepper into bite size and fry
+    </td>
+  </tr>
+  <tr>
+    <td>
+      garlic
+    </td>
+    <td rowspan="3">
+      sauté
+    </td>
+    <td rowspan="5">
+      mix
+    </td>
+    <td rowspan="8">
+      simmer until tender
+    </td>
+    <td rowspan="12">
+      mix — add water if necessary
+    </td>
+    <td rowspan="16">
+      mix — add fish sauce to taste
+    </td>
+  </tr>
+  <tr>
+    <td>
+      onions
+    </td>
+  </tr>
+  <tr>
+    <td>
+      tomatoes
+    </td>
+  </tr>
+  <tr>
+    <td>
+      fish sauce
+    </td>
+    <td rowspan="2" class="noright">
+      &nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td>
+      soy sauce
+    </td>
+  </tr>
+  <tr>
+    <td>
+      pork
+    </td>
+    <td colspan="2" rowspan="3" class="noright">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      bay leaves
+    </td>
+  </tr>
+  <tr>
+    <td>
+      ground black pepper
+    </td>
+  </tr>
+  <tr>
+    <td>
+      pork liver
+    </td>
+    <td colspan="3" rowspan="4" class="noright">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      carrots
+    </td>
+  </tr>
+  <tr>
+    <td>
+      potatoes
+    </td>
+  </tr>
+  <tr>
+    <td>
+      hotdogs
+    </td>
+  </tr>
+  <tr>
+    <td>
+      red bell pepper
+    </td>
+    <td rowspan="4" colspan="4" class="noright">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      green bell pepper
+    </td>
+  </tr>
+  <tr>
+    <td>
+      raisins
+    </td>
+  </tr>
+  <tr>
+    <td>
+      green peas
+    </td>
+  </tr>
+</table>
+
+## photos
+![menudo](/assets/2022-01-15-menudo.jpg)
